@@ -110,22 +110,22 @@ Impact: Monitors product-specific performance and return rates.
 💡 Final Conclusion
 The AdventureWorks Sales Dashboard empowers decision-makers to:
 
-Monitor overall business performance in real-time.
+- Monitor overall business performance in real-time.
 
-Identify key revenue drivers and underperforming areas.
+- Identify key revenue drivers and underperforming areas.
 
-Understand customer demographics for targeted marketing.
+- Understand customer demographics for targeted marketing.
 
-Optimize pricing strategies with what-if simulations.
+- Optimize pricing strategies with what-if simulations.
 
-Reduce returns by identifying problem products.
+- Reduce returns by identifying problem products.
 
 With this project, I have demonstrated:
 
-Data preparation & transformation skills in Power Query.
+- Data preparation & transformation skills in Power Query.
 
-Analytical skills using DAX to create meaningful measures.
+- Analytical skills using DAX to create meaningful measures.
 
-Storytelling with data through clean and interactive dashboards.
+- Storytelling with data through clean and interactive dashboards.
 
-Business acumen by linking insights to strategic actions.
+- Business acumen by linking insights to strategic actions.
